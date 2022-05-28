@@ -1,0 +1,22 @@
+This qa courses is develop in user not only the soft skills but alos hard skills
+qa stuff and programm software:
+Postman
+SQL
+JS
+Git Hub
+Bash,Linux
+Chek list
+Test Case
+Bug report
+SDLC
+SLC
+Agile
+Scrum
+Canban
+Waterfall
+JMeter
+DBeaver
+API
+Charles
+Fidler
+
